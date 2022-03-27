@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Gwendolyn:wght@700&family=Sarala&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    text-decoration: none;
+}
+
+header{
+    background-color: #efd2be;
+    
+}
+
+.header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.redes{
+
+    display: flex;
+    align-items: center;
+
+    
+    
+}
+
+
+.nav-bar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+body{
+   background-color: #f5f5f5;
+   font-size: 100%;
+
+}
